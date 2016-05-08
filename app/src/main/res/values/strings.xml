@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Walking Safety</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cate_alert">警示方式</string>
+    <string name="cate_other">其他</string>
+    <string name="title_walking_alert">手動啟動服務</string>
+    <string name="title_service">服務</string>
+    <string name="alert_light">閃光燈</string>
+    <string name="alert_sound">警示聲</string>
+    <string name="alert_dialog">訊息視窗</string>
+    <string name="auto_run">開機自動啟動</string>
+    <string name="cb_on">開</string>
+    <string name="cb_off">關</string>
+    <string name="title_notification">Start Walking Safety</string>
+    <string name="des_notification">Walking Safety running...</string>
+    <string name="alert_title">注意！</string>
+    <string name="alert_des">請注意安全</string>
+    <string name="alert_confirm">我知道了</string>
+
+    <string name="key_al_light">pf_al_light</string>
+    <string name="key_al_sound">pf_al_sound</string>
+    <string name="key_al_dialog">pf_al_dialog</string>
+    <string name="key_auto_run">pf_auto_run</string>
+    <string name="key_walk">pf_walk</string>
+    <string name="key_WalkingSafety">pf_startWalkingSafety</string>
+
+</resources>

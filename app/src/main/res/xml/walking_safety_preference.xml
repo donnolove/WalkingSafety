@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/title_service">
+    
+    
+<CheckBoxPreference android:summaryOn="@string/cb_on" android:summaryOff="@string/cb_off" android:key="pf_start_service" android:title="@string/title_walking_alert" /><CheckBoxPreference android:key="pf_auto_run" android:summaryOn="@string/cb_on" android:title="@string/auto_run" android:summaryOff="@string/cb_off" /></PreferenceCategory><PreferenceCategory android:title="@string/cate_alert">
+        
+    <!--<CheckBoxPreference android:key="pf_al_light" android:title="@string/alert_light" android:summaryOn="@string/cb_on" android:summaryOff="@string/cb_off"/>-->1462716548_running.png
+    <CheckBoxPreference android:key="pf_al_sound" android:title="@string/alert_sound" android:summaryOn="@string/cb_on" android:summaryOff="@string/cb_off"/>
+    <CheckBoxPreference android:key="pf_al_dialog" android:title="@string/alert_dialog" android:summaryOn="@string/cb_on" android:summaryOff="@string/cb_off"/>
+    
+    </PreferenceCategory>
+    
+    
+
+</PreferenceScreen>
